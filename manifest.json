@@ -1,8 +1,21 @@
 {
   "version": "1.0.0",
-  "parts": [
-    "https://github.com/ЮЗЕРНЕЙМ/РЕПОЗИТОРИЙ/releases/download/v1.0.0/game.part1.rar",
-    "https://github.com/ЮЗЕРНЕЙМ/РЕПОЗИТОРИЙ/releases/download/v1.0.0/game.part2.rar",
-    "https://github.com/ЮЗЕРНЕЙМ/РЕПОЗИТОРИЙ/releases/download/v1.0.0/game.part3.rar"
+  "files": [
+    {
+      "name": "cheburashka_v1.0.0.part01.rar",
+      "url": "https://github.com/lobovoi12-commits/cheburashka-files/releases/download/v1.0.0/cheburashka_v1.0.0.part01.rar"
+    },
+    {
+      "name": "cheburashka_v1.0.0.part02.rar",
+      "url": "https://github.com/lobovoi12-commits/cheburashka-files/releases/download/v1.0.0/cheburashka_v1.0.0.part02.rar"
+    },
+    {
+      "name": "cheburashka_v1.0.0.part03.rar",
+      "url": "https://github.com/lobovoi12-commits/cheburashka-files/releases/download/v1.0.0/cheburashka_v1.0.0.part03.rar"
+    },
+    {
+      "name": "cheburashka_v1.0.0.part04.rar",
+      "url": "https://github.com/lobovoi12-commits/cheburashka-files/releases/download/v1.0.0/cheburashka_v1.0.0.part04.rar"
+    }
   ]
 }
